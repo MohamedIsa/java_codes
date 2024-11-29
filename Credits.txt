@@ -1,0 +1,7 @@
+Ali 100
+Mohammad 120
+Sara 60
+Noor 20
+Maryam 77
+Aya 44
+Fatima 80

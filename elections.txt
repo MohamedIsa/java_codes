@@ -1,0 +1,6 @@
+ahmed 9000 M
+anwar 4000 F
+ali 3000 M
+mohamed 7000 M
+daniha 8000 F
+maryam 2000 F

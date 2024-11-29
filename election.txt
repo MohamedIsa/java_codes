@@ -1,0 +1,5 @@
+Ahmed	5000	M
+Dana	4000	F
+Jassim	6000	M
+Hassan	2500	M
+Hanadi	1800	F
